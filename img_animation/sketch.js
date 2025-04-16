@@ -1,5 +1,6 @@
-const frames = [];
-let currentFrame ;
+
+let bananas = 12;
+let apples = 13;
 
 function preload(){
   for(let i = 0; i < 15 ; i++){
